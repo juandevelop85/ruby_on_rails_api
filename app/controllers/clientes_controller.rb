@@ -27,12 +27,12 @@ class ClientesController < ApplicationController
         ciudad: "Cali"
       },
       "P-ABC123" => {
-        primer_nombre: "María",
-        segundo_nombre: "Alejandra",
-        primer_apellido: "Gómez",
-        segundo_apellido: "Torres",
-        telefono: "3107654321",
-        direccion: "Carrera 10 #20-30",
+        primer_nombre: "Usuario",
+        segundo_nombre: "Probando",
+        primer_apellido: "Prueba",
+        segundo_apellido: "Dos",
+        telefono: "3110000000",
+        direccion: "Calle 120 #20-30",
         ciudad: "Bogotá"
       }
     }
